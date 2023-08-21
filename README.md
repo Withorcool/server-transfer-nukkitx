@@ -7,7 +7,6 @@ here is code
         InetSocketAddress addr = new InetSocketAddress(address, port);
         p.transfer(addr);
     }
-    
 </code>
 
 #exemples
@@ -57,5 +56,4 @@ here is code
             }
         }
     }
-    
 </code>
